@@ -57,6 +57,6 @@ sr.reveal('.work__img',{interval: 200});
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 200}); 
 
-
-
-
+function func() {
+    alert("Please Send your mail to nadishka.jayashan@gmail.com");
+  }
