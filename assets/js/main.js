@@ -58,5 +58,5 @@ sr.reveal('.work__img',{interval: 200});
 sr.reveal('.contact__input',{interval: 200}); 
 
 function func() {
-    alert("Please Send your mail to nadishka.jayashan@gmail.com");
+    alert("Please Email your message to nadishka.jayashan@gmail.com");
   }
